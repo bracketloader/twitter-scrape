@@ -1,6 +1,6 @@
 # Twitter Scrape
 
-Scrape tweets from twitter into a DB.  Convert the DB to a CSV file.
+Scrape tweets from Twitter into a DB.  Convert the DB to a CSV file.
 
 ## Installation
 
@@ -17,7 +17,7 @@ Scrape tweets from twitter into a DB.  Convert the DB to a CSV file.
     * `TWITTER_APP_KEY`
     * `TWITTER_APP_SECRET`
 * Set the following key in `private.py`.
-    * `CONNECTION_STRING` -- use `sqlite:///tweets.db` as a default if you need to.  It's recommended to use postgresql, but not necessary.
+    * `CONNECTION_STRING` -- use `sqlite:///tweets.db` as a default if you need to.  It's recommended to use Postgresql, but not necessary.
 
 ## Usage
 
